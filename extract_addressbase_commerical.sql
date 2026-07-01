@@ -1,3 +1,7 @@
+/*
+code snippet to extract items of interest from the full premium addressbase wales
+*/
+
 drop table if exists addbase.ab_commercial;
 create table addbase.ab_commercial as 
 SELECT id,
