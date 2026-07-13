@@ -48,3 +48,7 @@ where
 	po.postcode='SA1 1AA'
 and
 	egr_arr between '08:00:00' and '09:00:00'
+
+
+/* join to the ab_commercial job counts, and tally,
+ to get an estimate of access to employment from this postocde /*
